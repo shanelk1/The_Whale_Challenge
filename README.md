@@ -1,1 +1,1 @@
-# The_Whale_Challenge
+# Whale_Challenge
