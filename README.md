@@ -3,8 +3,6 @@
 
 A Whale of an Analysis
 
-Whale Analysis
-
 Quantitative Analysis Performance Analysis: 1. Calculate and plot cumulative returns. Does any portfolio outperform the S&P 500? There were multiple portfolios that outperformed the S&P according to the data. Algo 1 outperformed the most followed by Berkshire Hathaway, Algo 2 and finally Soros Fund Management.
 
 Risk Analysis: Create a box plot for each of the returns. Which box has the largest spread? Which has the smallest spread?
