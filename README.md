@@ -1,6 +1,9 @@
 # Whale Challenge
 ## Pandas-Homework
 
+![portfolio-analysis](https://user-images.githubusercontent.com/89318890/165779168-e675bcc0-806a-4cc8-bc35-54197f7b2ebf.png)
+
+
 A Whale of an Analysis
 
 Quantitative Analysis Performance Analysis: 1. Calculate and plot cumulative returns. Does any portfolio outperform the S&P 500? There were multiple portfolios that outperformed the S&P according to the data. Algo 1 outperformed the most followed by Berkshire Hathaway, Algo 2 and finally Soros Fund Management.
@@ -15,4 +18,5 @@ Rolling Statistics 1. Plot the rolling standard deviation of the firm's portfoli
 
 Plot Sharpe Ratios 1. Using the daily returns, calculate and visualize the Sharpe ratios using a bar plot. 2. Determine whether the algorithmic strategies outperform both the market (S&P 500) and the whales portfolios. The algorithmic strategies outperform both the S&P as well as the other portfolios. Algo 1 had the best Sharpe Ratio of 1.367 while Algo 2 had a Sharpe Ratio of 0.484. The only other portfolio that was even close was Berkshire Hathaway with 0.607 as their Sharpe Ratio.
 
+![returns-dataframe](https://user-images.githubusercontent.com/89318890/165779201-2e6a9775-4661-4549-8058-2996ca4d982a.png)
 
